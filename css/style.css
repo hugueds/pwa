@@ -1,0 +1,13 @@
+body{
+    background-color:  darkslateblue;
+    color : white;
+    /*background-image: url('');*/
+}
+
+#title {
+    text-align: center;
+}
+
+input{
+	color: black;
+}
